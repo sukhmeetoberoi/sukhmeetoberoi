@@ -66,16 +66,22 @@ Here are some of the projects I have been working on recently:
 ![Sukhmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmeetoberoi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmeetoberoi&layout=compact&theme=radical)
 
+---## 📊 GitHub Stats
+### Sukhmeet Singh Oberoi's GitHub Stats
+![Stats Header](https://img.shields.io/badge/-GitHub%20Stats-green?style=for-the-badge)
+
+- **Total Stars Earned**: 123  
+- **Total Commits (2025)**: 1.1k  
+- **Total PRs**: 54  
+- **Total Discussions Answered**: 2  
+- **Contributed to (last year)**: 6
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmeetoberoi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmeetoberoi&layout=compact&theme=radical)
+
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies🏆
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukhmeetoberoi&theme=radical&margin-w=15&margin-h=15)
-
-
-Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
-
-## 📬 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sukhmeet-singh-oberoi)
-- 📧 sukhmeetoberoi@gmail.com
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
