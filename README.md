@@ -74,6 +74,7 @@ Here are some of the projects I have been working on recently:
 ##  GitHub Trophies🏆
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sukhmeetoberoi&theme=radical&margin-w=15&margin-h=15)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sukhmeetoberoi&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sukhmeetoberoi&theme=github)
+
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
