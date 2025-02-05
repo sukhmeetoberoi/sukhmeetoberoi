@@ -56,9 +56,6 @@ Here are some of the projects I have been working on recently:
 
 ---
 
-## 📊 GitHub Stats
-![Sukhmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhmeetoberoi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhmeetoberoi&layout=compact&theme=radical)
 
 
 
