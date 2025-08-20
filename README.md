@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 
 ## 🚀 About Me
 - 💻 Aspiring Engineer | Innovator | Open Source Enthusiast
-- 🎓 Currently pursuing B.Tech in CSE AIML (3rd Year)
+- 🎓 Currently pursuing B.Tech in CSE AIML 
 - 🌟 Focused on developing smart, scalable, and sustainable tech solutions
 
 ## 🛠️ Technologies & Tools
