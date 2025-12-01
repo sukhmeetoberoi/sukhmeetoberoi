@@ -1,4 +1,4 @@
-# Hi there, I'm Sukhmeet Singh Oberoi! 👋
+# Hi there, I'm Sukhmeet Singh Oberoi! 👋👋
 
 Welcome to my GitHub profile! I'm passionate about technology, innovation, and creating impactful solutions. Here's a little bit about me and my work:
 
