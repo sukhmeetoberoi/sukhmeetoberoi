@@ -19,12 +19,13 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 
 ## 📚 Recent Projects
 Here are some of the projects I have been working on recently:
+1. **MedSafe(https://med-safe-seven.vercel.app/) (https://github.com/sukhmeeetoberoi/MedSafe)**
 
-1. **Heart Disease(https://github.com/sukhmeetoberoi/Heart-Disease)**  
+2. **Heart Disease(https://github.com/sukhmeetoberoi/Heart-Disease)**  
    A brief description of the project.  
    Technologies used: XYZ
 
-2. **IPL Analysis (https://github.com/sukhmeetoberoi/IPL-Analysis-Jupyter-notebook-and-Power-BI-Dashboard)**  
+3. **IPL Analysis (https://github.com/sukhmeetoberoi/IPL-Analysis-Jupyter-notebook-and-Power-BI-Dashboard)**  
    A brief description of the project.  
    Technologies used: XYZ
 
