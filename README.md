@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and c
 
 ## 📚 Recent Projects
 Here are some of the projects I have been working on recently:
-1. **MedSafe(https://med-safe-seven.vercel.app/) (https://github.com/sukhmeeetoberoi/MedSafe)**
+1. **MedSafe(https://med-safe-seven.vercel.app/) ([https://github.com/sukhmeeetoberoi/MedSafe](https://github.com/sukhmeetoberoi/MedSafe))**
 
 2. **Heart Disease(https://github.com/sukhmeetoberoi/Heart-Disease)**  
    A brief description of the project.  
